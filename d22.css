@@ -1,0 +1,90 @@
+table,th,td,tr{
+    border: inset;
+    height: 50px;
+    /* width: 50px; */
+    text-align: center;
+}
+.fin{
+    font-size: 80px;
+    color: white;
+    margin-left: 38%;
+    margin-right: 10%;
+}
+
+#hiphop{
+
+}
+body{
+    background-color: rgb(58, 55, 55);
+    /* border: 20px inset; */
+    /* width: fit-content;
+    height: fit-content; */
+}
+.king{
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-right: -10%;
+    color: white;
+    word-spacing: 40px;
+    font-family: Arial;
+    border-radius: 20px;
+}
+a:link,a:visited{
+    text-decoration: none;
+    color: white;
+    
+}
+a:hover{
+    /* background-color    : greenyellow; */
+    color:greenyellow;
+    border-radius: 40px;
+    /* padding: 10px; */
+}
+button:hover{
+    background-color: greenyellow;
+}
+.ling{
+     padding: 1px  30px;
+     border-radius: 40px;
+}
+/* img{
+    margin-left: 17%;
+    border-radius: 50%;
+} */
+.nen{
+    text-align: justify; 
+    margin-left: 30%;
+    margin-right: 20%; 
+    color: white;
+    font-size: 22px;
+}
+.lin{
+    display: flex;
+}
+.container {
+    display: flex;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+   }
+   
+   img {
+    height: 200px;
+    width: 200px;
+    margin-left: 130%;
+    border-radius: 50%;
+   }
+   
+   .text {
+     font-size: 50px;
+   }
+   .kin{
+    font-size: 80px;
+    color: white;
+    margin-left: 27%;
+    margin-right: 10%;
+    margin-top: -50px;
+}
+html{
+    scroll-behavior: smooth;
+}
