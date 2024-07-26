@@ -11,6 +11,8 @@ table,th,td,tr{
 }
 body{
     background-color: rgb(18, 20, 17);
+    width: 100%;
+
 
 }
 .tb{
@@ -26,9 +28,9 @@ body{
     border-radius: 20px;
 }
 .id{
-    color: blue;
+    color: rgb(255, 255, 255);
     font-size: 350%;
-    padding-right: 1.5cm;
+    padding-right: 0.8cm;
 }
 a:link,a:visited{
     text-decoration: none;
@@ -46,7 +48,6 @@ button:hover{
 }
 .ling{
      padding: 1px  30px;
-     border-radius: 40px;
 }
 /* img{
     margin-left: 17%;
@@ -90,5 +91,7 @@ html{
     scroll-behavior: smooth;
 }
 .kj{
-    color: beige;
+    color: rgb(47, 236, 113);
+    align-items: left;
+    justify-content: left;
 }
