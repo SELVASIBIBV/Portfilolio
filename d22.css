@@ -1,7 +1,6 @@
 table,th,td,tr{
-    border: inset;
+    border-style: dotted;
     height: 50px;
-    /* width: 50px; */
     text-align: center;
 }
 .name{
@@ -89,4 +88,7 @@ button:hover{
 }
 html{
     scroll-behavior: smooth;
+}
+.kj{
+    color: beige;
 }
