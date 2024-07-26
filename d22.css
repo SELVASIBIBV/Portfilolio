@@ -4,9 +4,9 @@ table,th,td,tr{
     /* width: 50px; */
     text-align: center;
 }
-.fin{
+.name{
     font-size: 80px;
-    color: white;
+    color: rgb(173, 129, 129);
     margin-left: 38%;
     margin-right: 10%;
 }
@@ -20,18 +20,18 @@ body{
     /* width: fit-content;
     height: fit-content; */
 }
-.king{
+.ydd{
     margin-left: 10%;
     margin-top: 2%;
     margin-right: -10%;
-    color: white;
+    color: rgb(215, 164, 164);
     word-spacing: 40px;
     font-family: Arial;
     border-radius: 20px;
 }
 a:link,a:visited{
     text-decoration: none;
-    color: white;
+    color: rgb(212, 153, 153);
     
 }
 a:hover{
@@ -55,7 +55,7 @@ button:hover{
     text-align: justify; 
     margin-left: 30%;
     margin-right: 20%; 
-    color: white;
+    color: rgb(188, 235, 179);
     font-size: 22px;
 }
 .lin{
